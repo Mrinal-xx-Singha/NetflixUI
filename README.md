@@ -1,5 +1,5 @@
 ##                         VIEW THE DEPLOYED APP USING THE LINK PROVIDED BELOW 
-# https://tangerine-longma-5a6e84.netlify.app/
+# https://mrinalnetflixclone.netlify.app/
 
 
 
