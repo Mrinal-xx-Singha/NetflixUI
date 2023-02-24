@@ -6,6 +6,9 @@ import "./Banner.css";
 
 
 function Banner() {
+
+    // Use State to handle banner photos
+
     const [movie, setMovie] = useState([]);
 
     useEffect(() => {
@@ -27,6 +30,8 @@ function Banner() {
     }
 
   return (
+    // banner 
+
         <header className='banner'
         style={{
             backgroundSize: "cover",

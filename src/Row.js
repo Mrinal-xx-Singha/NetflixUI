@@ -22,6 +22,7 @@ function Row({ title, fetchUrl, isLargeRow }) {
     }, [fetchUrl]);
 
     /*console.log(movies);*/
+
     const opts ={
         height: "390",
         Width: "100%",
@@ -48,7 +49,7 @@ function Row({ title, fetchUrl, isLargeRow }) {
 
     return(
         <div className="row">
-            <h2>{title }</h2>
+            <h2>{title}</h2>
             <div className="row__posters">
                 {movies.map((movie) => (
                     <img
