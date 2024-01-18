@@ -1,5 +1,5 @@
 ##                         VIEW THE DEPLOYED APP USING THE LINK PROVIDED BELOW 
-# https://mrinalnetflixclone.netlify.app/
+#  [DEPLOYED](https://mrinalnetflixclone.netlify.app/)
 
 
 
