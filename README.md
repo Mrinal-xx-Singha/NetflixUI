@@ -1,5 +1,5 @@
 ##                         VIEW THE DEPLOYED APP USING THE LINK PROVIDED BELOW 
-#  [DEPLOYED](https://mrinalnetflixclone.netlify.app/)
+#  [DEPLOYED](https://netflix-ui-green.vercel.app/)
 
 
 
